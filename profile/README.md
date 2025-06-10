@@ -19,3 +19,4 @@ This is the github organization page for the GMU-ASRC organization.
 ## Related organizations and repositories
 
 * [RobotSwarmSimulator (kenblu24 fork)](https://github.com/kenblu24/RobotSwarmSimulator)
+* [Parsa Research Lab (neuromorphic)](https://github.com/Parsa-Research-Laboratory/LearningResources)
