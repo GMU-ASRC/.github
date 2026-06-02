@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-<h1>Autonomous Swarm Robotics Club</h1>
+<h1>Autonomous Swarm Robotics Center</h1>
 <h3>Create Lab | George Mason University</h3>
 
 We work on swarm robotics, with a focus on emergent behaviors.
@@ -8,7 +8,7 @@ We work on swarm robotics, with a focus on emergent behaviors.
 
 ---
 
-This is the github organization page for the GMU-ASRC organization.
+Welcome to the github organization page for the **A**utonomous **S**warm **R**obotics Research Group at George Mason University.
 
 # Quick Links
 
